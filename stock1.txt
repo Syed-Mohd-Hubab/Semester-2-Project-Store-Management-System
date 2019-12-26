@@ -1,0 +1,3 @@
+drink 12 44
+shoes 100 1500
+hubab 1 500
